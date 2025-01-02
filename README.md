@@ -6,4 +6,4 @@
 
 <font size=7><div align='center' > <a href=''>**Paper**</a>  <a href="https://pixellm.github.io/](https://maverickren.github.io/VideoWorld.github.io/">**Project Page**</a></div></font>
 
-<img width="1000" alt="image" src='fig/figure1_showv6'>
+<img width="1000" alt="image" src='figure1_showv6.png'>
